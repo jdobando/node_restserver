@@ -10,9 +10,13 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "bcrypt": "^3.0.5",
         "body-parser": "^1.18.3",
         "express": "^4.16.4",
+        "mongoose": "^5.4.19",
+        "mongoose-unique-validator": "^2.0.2",
         "nodeman": "^1.1.2",
-        "npm": "^6.8.0"
+        "npm": "^6.9.0",
+        "underscore": "^1.9.1"
     }
 }
